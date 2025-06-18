@@ -2,3 +2,4 @@
 Python autotest scripts
 
 !!!VERY IMPORTANT STRING!!!
+New INFO
